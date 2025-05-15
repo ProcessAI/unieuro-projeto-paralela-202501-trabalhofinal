@@ -7,7 +7,7 @@ Coleção de trabalhos finais de Projeto de Programação Paralela 202501
 * João Omati
 * Diogo Souza
 
-### Grupo 2 - Contator paralelo de estrela em imagens extremamente grandes
+### [Grupo 2 - Contator paralelo de estrela em imagens extremamente grandes](https://github.com/joaolopes45/projetointegradorMPI.git)
 * João Lopes
 * Julio Cesar
 
@@ -19,7 +19,7 @@ Coleção de trabalhos finais de Projeto de Programação Paralela 202501
 * Ézio Pacheco
 * Isaque Marques
 
-### Grupo 5 - Identificador paralelo de estradas em imagens de satélite
+### [Grupo 5 - Identificador paralelo de estradas em imagens de satélite](https://github.com/GuiXaadrez1/Projeto_ProgParalela)
 * Ana Tereza
 * Guilherme Silva
 
