@@ -37,6 +37,7 @@ Coleção de trabalhos finais de Projeto de Programação Paralela 202501
 
 ### Grupo 9 - Paralelizar simulação de pandemia
 * Welber Costa
+* Gabriel Paixão
 
 ### [Grupo 10 - Contagem paralela de pessoas em imagens aéreas](https://github.com/larissamacb/Paralelismo-em-Contador-de-Multidoes)
 * Larissa Maciel
