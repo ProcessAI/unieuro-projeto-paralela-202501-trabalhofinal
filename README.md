@@ -3,7 +3,7 @@ Coleção de trabalhos finais de Projeto de Programação Paralela 202501
 
 ## Grupos
 
-### Grupo 1 - Processador de informações paralelo em arquivos de textos gigantes
+### [Grupo 1 - Processador de informações paralelo em arquivos de textos gigantes](https://github.com/joao-omati/projetobolsafamilia)
 * João Omati
 * Diogo Souza
 
@@ -15,7 +15,7 @@ Coleção de trabalhos finais de Projeto de Programação Paralela 202501
 * Caio Vieira
 * Guilherme Souza
 
-### Grupo 4 - Buscador paralelo de palavras em estruturas recursivas de sites online
+### [Grupo 4 - Buscador paralelo de palavras em estruturas recursivas de sites online](https://github.com/EzioPP/Crawler)
 * Ézio Pacheco
 * Isaque Marques
 
@@ -47,6 +47,6 @@ Coleção de trabalhos finais de Projeto de Programação Paralela 202501
 * Robson Almeida
 * Arthur Moreira
 
-### Grupo 12 - Identificador paralelo de pessoas sem máscaras em vídeos mp4
+### [Grupo 12 - Identificador paralelo de pessoas sem máscaras em vídeos mp4](https://github.com/Dj157/sem_mascara)
 * Daniel Jreige
 * Kaleu Back
