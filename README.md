@@ -19,7 +19,7 @@ Coleção de trabalhos finais de Projeto de Programação Paralela 202501
 * Ézio Pacheco
 * Isaque Marques
 
-### [Grupo 5 - Identificador paralelo de estradas em imagens de satélite]([https://github.com/GuiXaadrez1/Projeto_ProgParalela](https://github.com/EzioPP/Crawler)
+### [Grupo 5 - Identificador paralelo de estradas em imagens de satélite]([https://github.com/GuiXaadrez1/Projeto_ProgParalela]
 * Ana Tereza
 * Guilherme Silva
 
