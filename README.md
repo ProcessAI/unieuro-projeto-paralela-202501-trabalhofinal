@@ -35,7 +35,7 @@ Coleção de trabalhos finais de Projeto de Programação Paralela 202501
 * Paulo Costa
 * Leandro Rezende
 
-### Grupo 9 - Paralelizar simulação de pandemia
+### [Grupo 9 - Paralelizar simulação de pandemia](https://github.com/Welberrr/Academic_SimuladorPandemiaParalela.git)
 * Welber Costa
 * Gabriel Paixão
 
